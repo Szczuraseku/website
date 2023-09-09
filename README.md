@@ -1,4 +1,7 @@
 # Languages
-- HTML;
-- CSS;
-- JS
+ HTML
+ CSS
+ JS
+
+# Contact
+Discord: szczuraseku
