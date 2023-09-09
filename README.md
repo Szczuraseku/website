@@ -1,1 +1,4 @@
-# website
+# Languages
+- HTML;
+- CSS;
+- JS
